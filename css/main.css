@@ -2,7 +2,7 @@
 html {
   color: #f5f5f5;
   background-color: #172626;
-  font-family: "Open Sans", Courier, sans-serif;
+  font-family: "Open Sans", "Courier", sans-serif;
   font-size: 1em;
   line-height: 1.4;
 }
@@ -28,4 +28,8 @@ a:active {
   color: #007878;
   background-color: transparent;
   text-decoration: underline;
+}
+
+footer {
+  font-family: "Courier", arial, sans-serif;
 }
